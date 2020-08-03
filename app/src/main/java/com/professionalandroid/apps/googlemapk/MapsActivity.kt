@@ -21,6 +21,7 @@ class MapsActivity : FragmentActivity(), OnMapReadyCallback {
     private var button: Button? = null
     private var editText: EditText? = null
 
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
